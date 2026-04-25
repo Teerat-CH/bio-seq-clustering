@@ -66,3 +66,14 @@ This project uses and builds upon the work presented in:
 West-Roberts, J., Kravitz, J., Jha, N., Cornman, A., & Hwang, Y. (2024).  
 *Diverse Genomic Embedding Benchmark for functional evaluation across the tree of life*.  
 Cold Spring Harbor Laboratory. https://doi.org/10.1101/2024.07.10.602933
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{WestRoberts2024,
+  title = {Diverse Genomic Embedding Benchmark for functional evaluation across the tree of life},
+  doi = {10.1101/2024.07.10.602933},
+  author = {West-Roberts, Jacob and Kravitz, Joshua and Jha, Nishant and Cornman, Andre and Hwang, Yunha},
+  year = {2024}
+}
